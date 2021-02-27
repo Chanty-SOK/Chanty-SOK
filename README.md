@@ -1,7 +1,7 @@
 ### Hi I'm Chanty 👋
 
 - 🔭 I’m currently working at Beniten
-- 🌱 I use PHP, Javascript and now learning VueJS and React for one single page
+- 🌱 I use PHP, Javascript and now learning VueJS and React to make my application more user friendly and improve my job carrer as well
 - 💬 Ask me about anything
 
 
