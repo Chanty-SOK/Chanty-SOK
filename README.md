@@ -4,6 +4,5 @@
 - 🌱 I use Javascript, Node js, Sequelize and now learning VueJS and React to make my application more user friendly and improve my job carrer as well
 - 💬 Ask me about anything
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanty-SOK)](https://github.com/Chanty-SOK/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanty-SOK&show_icons=true&theme=outrun)
 
