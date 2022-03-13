@@ -3,9 +3,6 @@
 - 🔭 I’m currently working at VTech
 - 🌱 I'm currently learning Next JS, Recoil, and Nest JS. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanty-SOK&show_icons=true&theme=radical)
-
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Chanty-SOK&label=Profile%20views&color=0e75b6&style=flat" alt="mszeles" /> 
 </p>
