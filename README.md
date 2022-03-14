@@ -17,10 +17,10 @@
 <hr/>
 
 <p align="left"> 
-  <a href="https://twitter.com/Chanty-SOK" target="blank">
+  <a href="https://www.linkedin.com/in/chanty-sok-85a702163" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Chanty-SOK" />
   </a> 
-   <a href="https://www.linkedin.com/in/chanty-sok-85a702163/" target="blank">
+   <a href="https://github.com/Chanty-SOK" target="blank">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Chanty-SOK"/>
   </a> 
 </p>
