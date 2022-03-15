@@ -3,6 +3,10 @@
 - 🔭 I’m currently working at VTech
 - 🌱 I'm currently learning Next JS, Recoil, and Nest JS. 
 
+#### What I have read so far
+
+<a href="https://app.daily.dev/chantysok"><img src="https://api.daily.dev/devcards/094b49f8d0c242ba8fbcf545160d4057.png?r=xvt" width="400" alt="chantysok's Dev Card"/></a>
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Chanty-SOK&label=Profile%20views&color=0e75b6&style=flat" alt="mszeles" /> 
 </p>
