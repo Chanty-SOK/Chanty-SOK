@@ -34,7 +34,7 @@
 
 <p align="ceneter">
   <a href="https://ko-fi.com/sokchanty44455">
-  <img src="https://github.com/GorvGoyl/Notion-Boost-browser-extension/raw/master/src/images/readme/bmc.png" width="200" alt="Buy me a Coffee"/>
+  <img src="https://www.twosoutherncorners.com/img/bmc-button.png" width="200" alt="Buy me a Coffee"/>
   </a>
 </p>
 
